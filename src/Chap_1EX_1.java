@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Chap_1EX_1 {
+    
     /* Write a program to calculate percentage of a given student in CBSE board exam.
 His marks from 5 subjects must be taken as input from the keyboard .(Marks are out of 100) */
 
